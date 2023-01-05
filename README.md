@@ -21,14 +21,13 @@ This is a follow-along course with various examples.
 3. Working with VirtualBox
 4. Working with VMWare Workstation Player
 5. Working with KVM
-6. VirtualBox Command line interface
-7. Python API for VirtualBox
-8. Vagrant 
-9. Terraform
-10. Final Quz
+6. Working with Hyper-V
+7. VirtualBox Command line interface
+8. Python API for VirtualBox
+9. Vagrant 
+10. Terraform
+11. Final Quiz
 
 ## Feedback 
 
 ## Questions & Discussion
-
-
