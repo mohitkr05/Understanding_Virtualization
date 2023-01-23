@@ -6,7 +6,7 @@ This is a follow-along course with various examples.
 
 ## Course Outline
 
-1. [Introduction](introduction.md)
+1. [Introduction](introduction/01_Intro.md)
     1. Computing resources
     2. The need for Virtualization
     3. History of Virtualization
